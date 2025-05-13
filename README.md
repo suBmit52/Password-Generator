@@ -2,7 +2,7 @@
 
 This is a simple and stylish **Password Generator** built using HTML, CSS, and JavaScript. It allows users to generate secure passwords with customizable options like length, uppercase, lowercase, numbers, and symbols. The app also displays the strength of the generated password and includes a clipboard copy feature.
 
-![Password Generator Screenshot](./assets/sc)
+![Password Generator Screenshot](./assets/screenshot.png)
 
 ## 🚀 Features
 
@@ -42,8 +42,7 @@ This is a simple and stylish **Password Generator** built using HTML, CSS, and J
 You can double-click the file or use a live server extension if using VS Code.
 
 📸 Preview
-You can preview the project here (add GitHub Pages or live demo link if available).
-
+![Password Generator Screenshot](./assets/screenshot.png)
 🙌 Contributing
 Contributions are welcome! If you have ideas or improvements, feel free to fork the repo and create a pull request.
 
